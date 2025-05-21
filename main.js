@@ -23,11 +23,11 @@ const soapBody = `
          <dto:TokenUsuario>
             <dto:Senha>**************************</dto:Senha>
             <dto:Usuario>**************************</dto:Usuario>
-            <dto:GuidTenant>C43A3071-C141-4B85-AB0F-BF83166AD8E2</dto:GuidTenant>
+            <dto:GuidTenant>**************************</dto:GuidTenant>
          </dto:TokenUsuario>
       </dto:LGAutenticacao>
       <dto:LGContextoAmbiente>
-         <dto:Ambiente>506</dto:Ambiente>
+         <dto:Ambiente>**************************</dto:Ambiente>
       </dto:LGContextoAmbiente>
    </soapenv:Header>
 
